@@ -1,3 +1,6 @@
 # I am ProfMYK
-## The coolest person alive
-# JK! :)
+I write shit code
+
+## Contact
+ * Email: mykomurcu1@gmail.com
+ * Discord: Fortran#1438
