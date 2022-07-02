@@ -1,4 +1,4 @@
-# I am ProfMYK
+# I am Fortran
 I write shit code
 
 ## Contact
